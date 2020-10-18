@@ -1,4 +1,4 @@
-# timetablechatbot
+# Charbot TimeMaker
 # Objective
 Our objective is to create timetable reminder.we generally try to remember our own timetable in brain but in sometimes we forget it ,it big loss to career,so our goal is to create timetable alarmer which we alerts the user and make user more productive in studies
 # What this Chatbot can do ?
@@ -11,3 +11,5 @@ Our objective is to create timetable reminder.we generally try to remember our o
 First the data is taken from the user
 ![image](https://user-images.githubusercontent.com/72133695/96375965-e257b780-1199-11eb-8db2-8e73c5bd3ed0.png)
 Second part is to store the data in computer
+![image](https://user-images.githubusercontent.com/72133695/96376019-25b22600-119a-11eb-9dab-c149d07509e6.png)
+last part is to get the stored time table and print to the user
