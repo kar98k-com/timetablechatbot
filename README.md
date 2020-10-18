@@ -9,4 +9,5 @@ Our objective is to create timetable reminder.we generally try to remember our o
 ![image](https://user-images.githubusercontent.com/72133695/96375859-33b37700-1199-11eb-8dcc-4ae85559c774.png)
 # Outputs 
 First the data is taken from the user
-
+![image](https://user-images.githubusercontent.com/72133695/96375965-e257b780-1199-11eb-8db2-8e73c5bd3ed0.png)
+Second part is to store the data in computer
