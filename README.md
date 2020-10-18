@@ -13,3 +13,8 @@ First the data is taken from the user
 Second part is to store the data in computer
 ![image](https://user-images.githubusercontent.com/72133695/96376019-25b22600-119a-11eb-9dab-c149d07509e6.png)
 last part is to get the stored time table and print to the user
+![image](https://user-images.githubusercontent.com/72133695/96376099-96f1d900-119a-11eb-9988-4345c9999c72.png)
+# About Our Team Members
+1)Karthik - 18pa1a0477
+2)yaswanth - 18pa1a0405
+3)sonia - 18pa1a0411
