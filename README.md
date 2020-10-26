@@ -26,3 +26,5 @@ by our site we give some top courses details
 and resouce to learn that course ex:-some youtube playlists
 # some of our output images
 ![2020-10-26 (1)](https://user-images.githubusercontent.com/72133695/97209571-8668e080-17e2-11eb-90cb-71f8d57d2b0d.png)
+![2020-10-26 (5)](https://user-images.githubusercontent.com/72133695/97209805-c7f98b80-17e2-11eb-846b-b797d39d42ca.png)
+![2020-10-26 (7)](https://user-images.githubusercontent.com/72133695/97209840-d2b42080-17e2-11eb-8914-f02d3e55a353.png)
