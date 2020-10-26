@@ -18,3 +18,10 @@ last part is to get the stored time table and print to the user
 1)Karthik - 18pa1a0477
 2)yaswanth - 18pa1a0405
 3)sonia - 18pa1a0411
+#week 2
+#objective
+our aim is to guide our future generation which skill they need to excel in fileds
+#our site can do
+by our site we give some top courses details
+and resouce to learn that course ex:-some youtube playlists
+
