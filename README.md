@@ -25,8 +25,7 @@ and resouce to learn that course ex:-some youtube playlists
 ![2020-10-26 (5)](https://user-images.githubusercontent.com/72133695/97209805-c7f98b80-17e2-11eb-846b-b797d39d42ca.png)
 ![2020-10-26 (7)](https://user-images.githubusercontent.com/72133695/97209840-d2b42080-17e2-11eb-8914-f02d3e55a353.png)
 foe ex:- if we click robotics we will get this outputs
-
-
+![2020-10-26 (9)](https://user-images.githubusercontent.com/72133695/97212701-c762f400-17e6-11eb-9830-2bf4ce5dcbba.png)
 # repl.it link
 https://soulfulfailingtrialsoftware.karthik77.repl.co/index.html
 
