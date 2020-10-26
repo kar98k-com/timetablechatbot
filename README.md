@@ -24,4 +24,5 @@ our aim is to guide our future generation which skill they need to excel in file
 # our site can do
 by our site we give some top courses details
 and resouce to learn that course ex:-some youtube playlists
-
+# some of our output images
+![2020-10-26 (1)](https://user-images.githubusercontent.com/72133695/97209571-8668e080-17e2-11eb-90cb-71f8d57d2b0d.png)
