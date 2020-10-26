@@ -14,10 +14,6 @@ Second part is to store the data in computer
 ![image](https://user-images.githubusercontent.com/72133695/96376019-25b22600-119a-11eb-9dab-c149d07509e6.png)
 last part is to get the stored time table and print to the user
 ![image](https://user-images.githubusercontent.com/72133695/96376099-96f1d900-119a-11eb-9988-4345c9999c72.png)
-# About Our Team Members
-1)Karthik - 18pa1a0477
-2)yaswanth - 18pa1a0405
-3)sonia - 18pa1a0411
 # week 2
 # objective
 our aim is to guide our future generation which skill they need to excel in fileds
@@ -28,3 +24,6 @@ and resouce to learn that course ex:-some youtube playlists
 ![2020-10-26 (1)](https://user-images.githubusercontent.com/72133695/97209571-8668e080-17e2-11eb-90cb-71f8d57d2b0d.png)
 ![2020-10-26 (5)](https://user-images.githubusercontent.com/72133695/97209805-c7f98b80-17e2-11eb-846b-b797d39d42ca.png)
 ![2020-10-26 (7)](https://user-images.githubusercontent.com/72133695/97209840-d2b42080-17e2-11eb-8914-f02d3e55a353.png)
+# repl.it link
+https://soulfulfailingtrialsoftware.karthik77.repl.co/index.html
+
